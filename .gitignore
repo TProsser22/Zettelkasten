@@ -1,0 +1,12 @@
+# Token cache (contains auth credentials)
+.token_cache.json
+
+# Environment files
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude internals
+.claude/
